@@ -7,9 +7,9 @@ title: 'Lecture 20: Speculative Parallelism & Leiserchess'
 uid: 5c4d10f4-aa48-04b8-9207-2127b40c8c36
 video_files:
   archive_url: https://archive.org/download/MIT6.172F18/MIT6_172F18_lecture_20_300k.mp4
-  video_captions_file: null
+  video_captions_file: /courses/6-172-performance-engineering-of-software-systems-fall-2018/d75e2509e0b0555485753bf96e06654d_3735211.vtt
   video_thumbnail_file: https://img.youtube.com/vi/gyaqXwi4BDk/default.jpg
-  video_transcript_file: /courses/6-172-performance-engineering-of-software-systems-fall-2018/8e5d476165fd2b60c3392ea5ae2275e9_gyaqXwi4BDk.pdf
+  video_transcript_file: /courses/6-172-performance-engineering-of-software-systems-fall-2018/c3f72782f84a2fccf432da255828dab6_3735211.pdf
 video_metadata:
   youtube_id: gyaqXwi4BDk
 ---
